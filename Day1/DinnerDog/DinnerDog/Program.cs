@@ -10,13 +10,11 @@ namespace DinnerDog
     {
         static void Main(string[] args)
         {
+            //Create an string array for the name of the dwarves
             string[] sevenDwarves = { "Happy", "Doc", "Sleepy", "Sneezy", "Dopey", "Bashful", "Grumpy" };
-            //Create a for loop
-          //  for (int i = 0; i < sevenDwarves.Length; i++)
-        
-
+            
             {
-                //Create an user input for dinner
+                //Create an illimited array ( any answers are true) running the number of time of the first string array
                 string[] dinnerdog = new string[7];
                 for (int i = 0; i < dinnerdog.Length; i++ )
                 {
@@ -39,6 +37,8 @@ namespace DinnerDog
                     Console.WriteLine(" What would you like to drink with you dinner" + " " + sevenDwarves[i] + "" + "?");
                     Console.ReadLine();
                 }
+                // you can't mix string with number or int with string for a foreach
+                // when using a string  for a foreach write null
                 string drink = null; 
                 foreach (string value in sevenDwarves)
                 {
