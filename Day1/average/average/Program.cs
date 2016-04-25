@@ -10,7 +10,7 @@ namespace average
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Please write 5 numbers to be average ");
+            Console.WriteLine(" Please enter 5 numbers to be averaged, pressing return after each: ");
 
 
             // Creating a new empty array of 5 elements
@@ -28,7 +28,12 @@ namespace average
             {
                 total = (value + total);
             }
-            Console
+            Console.WriteLine(total);
+
+            //Calculate the average
+            int average = total / (numArray.Length);
+             Console.WriteLine("The average is of your 5 number is {0}", average);
+            Console.ReadLine();
 
         }
     }

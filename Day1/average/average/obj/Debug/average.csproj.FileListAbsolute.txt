@@ -1,1 +1,7 @@
 C:\Users\student\Desktop\rippon vs work\Laure\average\average\bin\Debug\average.exe.config
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\average\average\bin\Debug\average.exe.config
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\average\average\bin\Debug\average.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\average\average\bin\Debug\average.pdb
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\average\average\obj\Debug\average.csprojResolveAssemblyReference.cache
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\average\average\obj\Debug\average.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\average\average\obj\Debug\average.pdb
