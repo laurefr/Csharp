@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\rippon vs work\Laure\Dinner\Dinner\bin\Debug\Dinner.exe.config
+C:\Users\student\Desktop\rippon vs work\Laure\Dinner\Dinner\bin\Debug\Dinner.exe
+C:\Users\student\Desktop\rippon vs work\Laure\Dinner\Dinner\bin\Debug\Dinner.pdb
+C:\Users\student\Desktop\rippon vs work\Laure\Dinner\Dinner\obj\Debug\Dinner.exe
+C:\Users\student\Desktop\rippon vs work\Laure\Dinner\Dinner\obj\Debug\Dinner.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\rippon vs work\Laure\Exercices2\Exercices2\bin\Debug\Exercices2.exe.config
+C:\Users\student\Desktop\rippon vs work\Laure\Exercices2\Exercices2\bin\Debug\Exercices2.exe
+C:\Users\student\Desktop\rippon vs work\Laure\Exercices2\Exercices2\bin\Debug\Exercices2.pdb
+C:\Users\student\Desktop\rippon vs work\Laure\Exercices2\Exercices2\obj\Debug\Exercices2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\rippon vs work\Laure\Exercices2\Exercices2\obj\Debug\Exercices2.exe
+C:\Users\student\Desktop\rippon vs work\Laure\Exercices2\Exercices2\obj\Debug\Exercices2.pdb
