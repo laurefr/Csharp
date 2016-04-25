@@ -1,0 +1,6 @@
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\DinnerDog\DinnerDog\bin\Debug\DinnerDog.exe.config
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\DinnerDog\DinnerDog\bin\Debug\DinnerDog.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\DinnerDog\DinnerDog\bin\Debug\DinnerDog.pdb
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\DinnerDog\DinnerDog\obj\Debug\DinnerDog.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\DinnerDog\DinnerDog\obj\Debug\DinnerDog.pdb
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\DinnerDog\DinnerDog\obj\Debug\DinnerDog.csprojResolveAssemblyReference.cache
