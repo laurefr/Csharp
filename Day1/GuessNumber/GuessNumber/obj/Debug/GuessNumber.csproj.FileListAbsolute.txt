@@ -3,3 +3,6 @@ C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\bin\Debug\
 C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
 C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
 C:\Users\student\Desktop\rippon vs work\Laure\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day1\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
